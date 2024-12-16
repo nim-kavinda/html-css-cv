@@ -219,7 +219,7 @@ iframe {
 
 .video-container iframe {
     width: 380px;
-    height: 180px;
+    height: 240px;
     border: none;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
@@ -331,13 +331,13 @@ tbody tr td {
 .left {
     background-color: #254761;
     text-align: left;
-    height: 2950px;
+    height: 2720px;
 }
 
 .right {
     background-color: #058383;
     text-align: left;
-    height: 2950px;
+    height: 2720px;
 }
 
 
